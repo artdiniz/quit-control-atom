@@ -1,0 +1,18 @@
+{
+  "name": "quit-control-atom",
+  "main": "./lib/quit-control-atom",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "quit-control-atom:toggle"
+  },
+  "repository": "https://github.com/atom/quit-control-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

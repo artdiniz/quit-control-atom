@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle quit-control-atom",
+        "command": "quit-control-atom:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "quit-control-atom",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "quit-control-atom:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
