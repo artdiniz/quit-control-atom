@@ -1,12 +1,12 @@
 {
   ".platform-linux atom-workspace, .platform-win32 atom-workspace": {
-    "ctrl-q": "quit-control-atom:toggle"
-    ,"ctrl-shift-w": "quit-control-atom:toggle"
-    ,"ctrl-w": "quit-control-atom:toggle"
+    "ctrl-q": "quit-control-atom:quit"
+    ,"ctrl-shift-w": "quit-control-atom:closeWindow"
+    ,"ctrl-w": "quit-control-atom:closeEditor"
   }
   ,".platform-darwin atom-workspace": {
-    "cmd-q": "quit-control-atom:toggle"
-    ,"cmd-shift-w": "quit-control-atom:toggle"
-    ,"cmd-w": "quit-control-atom:toggle"
+    "cmd-q": "quit-control-atom:quit"
+    ,"cmd-shift-w": "quit-control-atom:closeWindow"
+    ,"cmd-w": "quit-control-atom:closeEditor"
   }
 }

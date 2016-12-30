@@ -5,7 +5,11 @@
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "quit-control-atom:toggle"
+    "atom-workspace": [
+      "quit-control-atom:quit",
+      "quit-control-atom:closeWindow",
+      "quit-control-atom:closeEditor"
+    ]
   },
   "repository": "https://github.com/atom/quit-control-atom",
   "license": "MIT",
