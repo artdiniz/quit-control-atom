@@ -3,8 +3,14 @@
   "displayName": "Quit Control for Atom",
   "description": "Stop mistyping keyboard shortctus and quiting Atom unintentionally",
   "main": "./lib/quit-control-atom",
-  "version": "0.0.0",
-  "keywords": ["quit", "close", "keybinding", "close window", "close tab"],
+  "version": "1.0.0",
+  "keywords": [
+    "quit",
+    "close",
+    "keybinding",
+    "close window",
+    "close tab"
+  ],
   "activationCommands": {
     "atom-workspace": [
       "quit-control-atom:quit",
