@@ -1,5 +1,5 @@
 {
-  "name": "quitcontrol-atom",
+  "name": "quit-control",
   "displayName": "Quit Control for Atom",
   "description": "Stop mistyping keyboard shortctus and quiting Atom unintentionally",
   "main": "./lib/quit-control-atom",
