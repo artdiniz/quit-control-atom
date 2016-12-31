@@ -10,15 +10,15 @@ This extension will make all "quitish" keyboard shortcuts prompt you if you real
 
 1. If there is an open file, `⌘W` (on mac) or `Ctrl+W` (on other platforms) will close it as usual. But if there is no open file, instead of closing Atom window we will prompt you first:
 
-    ![Close Tab](images/closeTab.gif)
+    ![Close Tab](https://raw.githubusercontent.com/artdiniz/quitControlAtom/master/images/closeTab.gif?raw=true)
 
 2. If you hit `⇧⌘W` (on mac) or `⇧+Ctrl+W` (on other platforms) all your files will be closed as usual. But instead of closing Atom window, we will prompt you first:
 
-    ![Close All Tabs](images/closeAllTabs.gif)
+    ![Close All Tabs](https://raw.githubusercontent.com/artdiniz/quitControlAtom/master/images/closeAllTabs.gif?raw=true)
 
 3. If you hit `⌘Q` at any moment we will prompt you if you really want to quit:
 
-    ![Quit](images/quit.gif)
+    ![Quit](https://raw.githubusercontent.com/artdiniz/quitControlAtom/master/images/quit.gif?raw=true)
 
 
 ## Source
