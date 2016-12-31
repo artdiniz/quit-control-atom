@@ -27,7 +27,7 @@ This extension will make all "quitish" keyboard shortcuts prompt you if you real
 
 ## License
 
-[MIT](https://raw.githubusercontent.com/artdiniz/quitControlAtom/master/LICENSE)
+[MIT](https://raw.githubusercontent.com/artdiniz/quitControlAtom/master/LICENSE.md)
 
 ## Credits
 
