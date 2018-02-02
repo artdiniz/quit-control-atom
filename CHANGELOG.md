@@ -5,6 +5,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ## [Unreleased]
 ### Fixed
 - Prompt wasn't showing up when closing last tab
+- Screen flickering when changing focused option via keystroke
 
 ### Changed
 - New behavior: close window keystroke doesn't close all tabs when pressed
