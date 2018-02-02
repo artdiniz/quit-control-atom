@@ -2,7 +2,7 @@
 All notable changes to the "Quit Control" package will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
-## [Unreleased]
+## 2.0.0
 ### Fixed
 - Prompt wasn't showing up when closing last tab
 - Screen flickering when changing focused option via keystroke
